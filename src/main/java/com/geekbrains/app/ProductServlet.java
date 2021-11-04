@@ -33,5 +33,4 @@ public class ProductServlet extends HttpServlet {
     public void init() throws ServletException {
         logger.debug("Init");
     }
-
 }
